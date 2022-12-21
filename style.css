@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.generators {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.generators div {
+    display: flex;
+    background-color: burlywood;
+    width: 100%;
+    justify-content: space-around;
+    padding-top: 7.5rem;
+    padding-bottom: 7.5rem;
+}
+
+.generators h1 {
+    text-align: center;
+}
